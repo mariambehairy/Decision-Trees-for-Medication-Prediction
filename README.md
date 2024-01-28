@@ -1,6 +1,5 @@
 # Decision-Trees-for-Medication-Prediction
 
-## Introduction
 
 This project aims to build a model for predicting the appropriate medication/drug type for patients based on their Age, Sex, Blood Pressure, and Cholesterol levels using the "Drag.csv" dataset. Two experiments are conducted to evaluate the model's performance under different scenarios.
 
